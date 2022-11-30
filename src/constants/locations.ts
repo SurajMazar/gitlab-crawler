@@ -1,0 +1,1 @@
+export const APP_CONFIG_LOCATION = "config/app.config.json"
